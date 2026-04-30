@@ -6,7 +6,7 @@ A Python developer with passion. Full-Stack enjoyer and a lover of cybersecurity
 
 | Name   | Description |
 | ------ | -----------
-| [google_photos_sorter](https://github.com/joludyaster/google_photos_sorter) | A script that sorts Google Photos by their creation date with metadata preserved. |
+| [gphotos_takeout_toolkit](https://github.com/joludyaster/gphotos_takeout_toolkit.git) | A library that sorts Google Takeout Photos by their creation date with metadata preserved. |
 | [py-canada-post](https://github.com/joludyaster/py-canada-post) (In progress...) | Python written library to interact with Canada Post API REST. |
 
 ## Technologies that I use and I'm interested in:
